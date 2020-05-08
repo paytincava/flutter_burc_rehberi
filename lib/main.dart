@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutterburcrehberi/burc_detay.dart';
 import 'package:flutterburcrehberi/burc_liste.dart';
 // uygulama ilk acildiginda main methodunu arar
-void main() => runApp(MyApp());       // runapp bizden uygulamayi baslatacak ilk widgeti bekliyor
+void main() => runApp(MyApp());       // runapp bizden uygulamayi baslatacak ilk widgeti bekliyor ...[[[]]]]
 
 class MyApp extends StatelessWidget{
   @override
